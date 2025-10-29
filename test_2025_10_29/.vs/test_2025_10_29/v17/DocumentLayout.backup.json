@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\2025\\test_2025_10_29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|solutionrelative:test_2025_10_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|solutionrelative:test_2025_10_29\\sub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|solutionrelative:test_2025_10_29\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|solutionrelative:test_2025_10_29\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18CDFDE1-D495-4C76-BA63-AA98DC69D9F0}|test_2025_10_29\\test_2025_10_29.vcxproj|solutionrelative:test_2025_10_29\\sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 148,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sub.c",
+              "DocumentMoniker": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.c",
+              "RelativeDocumentMoniker": "test_2025_10_29\\sub.c",
+              "ToolTip": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.c",
+              "RelativeToolTip": "test_2025_10_29\\sub.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T09:20:23.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sub.h",
+              "DocumentMoniker": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.h",
+              "RelativeDocumentMoniker": "test_2025_10_29\\sub.h",
+              "ToolTip": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\sub.h",
+              "RelativeToolTip": "test_2025_10_29\\sub.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-29T09:19:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.h",
+              "DocumentMoniker": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.h",
+              "RelativeDocumentMoniker": "test_2025_10_29\\add.h",
+              "ToolTip": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.h",
+              "RelativeToolTip": "test_2025_10_29\\add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-29T09:04:58.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.c",
+              "RelativeDocumentMoniker": "test_2025_10_29\\add.c",
+              "ToolTip": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\add.c",
+              "RelativeToolTip": "test_2025_10_29\\add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T09:04:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\test.c",
+              "RelativeDocumentMoniker": "test_2025_10_29\\test.c",
+              "ToolTip": "D:\\Code\\2025\\test_2025_10_29\\test_2025_10_29\\test.c*",
+              "RelativeToolTip": "test_2025_10_29\\test.c*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T00:31:32.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
